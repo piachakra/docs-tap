@@ -4,7 +4,7 @@ This document provides an overview to installing Tanzu Application Platform.
 
 ## <a id='install-process'></a>Installation process
 
-The process of installing Tanzu Application Platform includes the following tasks:
+The process of installing Tanzu Application Platform includes the following tasks: x
 
 |Step|Task|Link|
 |----|----|----|
